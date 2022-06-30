@@ -1,0 +1,8 @@
+{
+  "require-dev": {
+    "": "<default>"
+  },
+  "require": {
+    "": "<default>"
+  }
+}
